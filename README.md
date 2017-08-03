@@ -14,8 +14,8 @@ Run the ```Runner``` class to bring up the start menu
 -Stay alive the longest to win a round(first to 5 rounds wins)  
 
 ## Controls
-```WASD```: Player 1 controls
-```Arrow Keys```: Player 2 controls
+```WASD```: Player 1 controls  
+```Arrow Keys```: Player 2 controls  
 
-```f```: Player 1 boost
-```m```: Player 2 boost
+```f```: Player 1 boost  
+```m```: Player 2 boost  
