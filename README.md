@@ -8,10 +8,10 @@ Download the contants above into a new java eclipse project
 Run the ```Runner``` class to bring up the start menu
 
 ## Instructions
--Avoid the obstacles which appear as grey rectangles
--Collect red fruit to gain length
--Collect blue boost to travel faster
--Stay alive the longest to win a round(first to 5 rounds wins)
+-Avoid the obstacles which appear as grey rectangles\n
+-Collect red fruit to gain length/n
+-Collect blue boost to travel faster\n
+-Stay alive the longest to win a round(first to 5 rounds wins)/n
 
 ## Controls
 ```WASD```: Player 1 controls
